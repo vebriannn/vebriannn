@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 <!--Medsos saya-->
 
-[![Instagram](https://img.shields.io/badge/Instagram-Ikuti-green?style=for-the-badge&logo=Instagram)]
+[![Instagram](https://img.shields.io/badge/Instagram-Ikuti-green?style=for-the-badge&logo=Instagram)](https://www.instagram.com/vebriandev)
