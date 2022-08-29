@@ -5,7 +5,5 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 
-![](https://komarev.com/ghpvc/?username=Vebriann&color=blue)
->>
-![Profile Views](http://img.shields.io/badge/Profile%20Views-100,000,00-blue)
+![Profile views](https://komarev.com/ghpvc/?username=Vebriann&color=blue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vebriann&layout=compact)](https://github.com/Vebriann/github-readme-stats)
