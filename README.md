@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile views](https://komarev.com/ghpvc/?username=vebriann&color=red)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vebriann&layout=compact)](https://github.com/vebriann?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vebriann&layout=compact)](https://github.com/vebriann)
 
 <!--Medsos saya-->
 
