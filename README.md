@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 
-![Profile views](https://komarev.com/ghpvc/?username=Vebriann&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=vebriann&color=rgb(green,blue,red))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vebriann&layout=compact)](https://github.com/Vebriann/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vebriann&layout=compact)](https://github.com/vebriann/github-readme-stats)
 
 <!--Medsos saya-->
 
