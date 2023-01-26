@@ -1,5 +1,4 @@
-<div class="div" style="display: flex; justify-content:center;"><img src="https://github.com/vebriann/vebriann/blob/main/images/fotome.jpg" width="150" height="auto" >
-</div>
+<p align="center"><img src="https://github.com/vebriann/vebriann/blob/main/images/fotome.jpg" width="150" height="auto" ></p>
 
 
 # 💻 Tech Stack:
