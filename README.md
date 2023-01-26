@@ -1,4 +1,4 @@
-<p align="center" ><img src="https://github.com/vebriann/vebriann/blob/main/images/fotome.jpg" width="250px" height="auto" ></p>
+<p align="center"><img src="https://github.com/vebriann/vebriann/blob/main/images/fotome.jpg" width="250px" height="auto" border-radius="50%"></p>
 <h2 align="center">Vebrian Developer</h2>
 <h4 align="center">I'm Fullstack Developer</h4>
 # 💻 Tech Stack:
