@@ -1,4 +1,4 @@
-<img src="https://github.com/vebriann/vebriann/blob/main/images/fotome.jpg" width="150" height="150" align="center">
+<img src="https://github.com/vebriann/vebriann/blob/main/images/fotome.jpg" width="150" height="auto" border-radius="5px" align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vebriandev) 
 <center>
 
