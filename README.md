@@ -7,3 +7,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vebriann&theme=react&hide_border=false)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Top Language
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vebriann&layout=compact" alt="Top language">
+
