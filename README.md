@@ -1,4 +1,4 @@
-<p align="center" border><img src="https://github.com/vebriann/vebriann/blob/main/images/fotome.jpg" width="350px" height="auto" ></p>
+<p align="center" border><img src="https://github.com/vebriann/vebriann/blob/main/images/fotome.jpg" width="250px" height="auto" ></p>
 
 
 # 💻 Tech Stack:
