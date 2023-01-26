@@ -1,4 +1,5 @@
-<p align="center" border><img src="https://github.com/vebriann/vebriann/blob/main/images/fotome.jpg" width="250px" height="auto" ></p>
+<p align="center" ><img src="https://github.com/vebriann/vebriann/blob/main/images/fotome.jpg" width="250px" height="auto" ></p>
+<p align="center">Sosial Media</p>
 
 
 # 💻 Tech Stack:
