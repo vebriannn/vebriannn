@@ -1,6 +1,6 @@
 <p align="center" ><img src="https://github.com/vebriann/vebriann/blob/main/images/fotome.jpg" width="250px" height="auto" ></p>
 <h3 align="center">Sosial Media</h3>
-<a align="center" href="https://Instagram.com/vebriandev"><img src="https://disk.mediaindonesia.com/thumbs/1800x1200/news/2020/03/1e2c29c543e1c21f54846e7f3eae7c7e.jpg" alt="alt text" width="20" height="20"></a> 
+<a align="center" href="https://Instagram.com/vebriandev"><img src="https://disk.mediaindonesia.com/thumbs/1800x1200/news/2020/03/1e2c29c543e1c21f54846e7f3eae7c7e.jpg" alt="alt text" width="100" height="100"></a> 
 
 
 # 💻 Tech Stack:
