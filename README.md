@@ -8,5 +8,5 @@
 
 # 🏅 Achievements Me 🏅
 
-#### 1. 3rd place in web development competition Iconfest 1.0.
+#### 1. 3rd place in web development competition Iconfest 1.0
 <br>
