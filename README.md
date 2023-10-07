@@ -4,7 +4,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vebriann&theme=react&hide_border=false)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# [🏅 Achievements Me]
+# 🏅 Achievements Me
 
 1. 3RD PLACE IN WEB DEVELOPMENT COMPETITION ICONFEST 1.0 BY [UNIMUS](https://drive.google.com/drive/folders/1CStJeOBAA5OEd-2MAUxDhQb2VlKAbk48?usp=sharing) `2023`
 2. 1RD PLACE IN WEB DESIGN IIT COMPETITION BY [Amikom Purwokerto](https://drive.google.com/drive/folders/1olmMKnyyXRbRhdkjzA12kWnr6RmC4KE_?usp=sharing) `2023`
