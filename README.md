@@ -20,3 +20,4 @@
 
 1. 1RD PLACE IN WEB DESIGN IIT COMPETITION BY [AMIKOM PURWOKERTO](https://drive.google.com/drive/folders/1olmMKnyyXRbRhdkjzA12kWnr6RmC4KE_?usp=sharing) `2023`
 2. 3RD PLACE IN WEB DEVELOPMENT COMPETITION ICONFEST 1.0 BY [UNIMUS](https://drive.google.com/drive/folders/1CStJeOBAA5OEd-2MAUxDhQb2VlKAbk48?usp=sharing) `2023`
+3. 2ND PLACE IN WEB DESIGN NATIONAL IT COMPETITION INVOFEST 2024 BY [POLTEKHARBER](https://drive.google.com/drive/folders/1CStJeOBAA5OEd-2MAUxDhQb2VlKAbk48?usp=sharing) `2023`
