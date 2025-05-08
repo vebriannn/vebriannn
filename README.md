@@ -1,5 +1,5 @@
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 # Github Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=vebriannn&show_icons=truek)
@@ -14,7 +14,10 @@
 <a href="https://github.com/vebriannn/SmartLife"><img title="SmartLife" src="https://github-readme-stats.vercel.app/api/pin/?username=vebriannn&repo=Smartlife"></a>
 <a href="https://github.com/vebriannn/WebOrganizationTeam"><img title="WEB ORGANIZATION" src="https://github-readme-stats.vercel.app/api/pin/?username=vebriannn&repo=WebOrganizationTeam"></a>
 <a href="https://github.com/vebriannn/DPM"><img title="DPM" src="https://github-readme-stats.vercel.app/api/pin/?username=vebriannn&repo=DPM"></a>
-<a href="https://github.com/vebriannn/Lesdaya"><img title="Lesdaya" src="https://github-readme-stats.vercel.app/api/pin/?username=vebriannn&repo=Lesdaya"></a>
+<a href="https://github.com/vebriannn/Ideanest"><img title="Ideanest" src="https://github-readme-stats.vercel.app/api/pin/?username=vebriannn&repo=Ideanest"></a>
+<a href="https://github.com/vebriannn/DevAcademy"><img title="DevAcademy" src="https://github-readme-stats.vercel.app/api/pin/?username=vebriannn&repo=DevAcademy"></a>
+<a href="https://github.com/vebriannn/EasyPay"><img title="EasyPay" src="https://github-readme-stats.vercel.app/api/pin/?username=vebriannn&repo=EasyPay"></a>
+<a href="https://github.com/vebriannn/Baturaden"><img title="Baturaden" src="https://github-readme-stats.vercel.app/api/pin/?username=vebriannn&repo=Baturaden"></a>
 
 # 🏅 Achievements Me
 
